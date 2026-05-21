@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Environment variables / secrets
+.env
+application-local.properties
+application-secret.properties
+
+# Spring Boot
+*.jar
+*.war
+
+# Temporary files
+tmp/
+temp/
