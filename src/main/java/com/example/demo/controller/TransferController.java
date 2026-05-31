@@ -26,7 +26,7 @@ public class TransferController {
                 request.getToAccountId(),
                 request.getAmount()
         );
-        return "Transfer successful";
+        return "Transfer was successful";
     }
 
     @GetMapping("/accounts")
